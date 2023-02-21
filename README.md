@@ -1,2 +1,2 @@
 ## super-node-skeleton
-mvc skeleton for nodejs
+node and express mvc skeleton
