@@ -1,0 +1,15 @@
+body{
+	background-color: #F0F4FB;
+	font-family: 'Quicksand', sans-serif;	
+}
+.page-text{
+	font-size: 40px;
+	font-weight: 300;
+	text-align: center;
+	margin: auto;
+	padding: 20px;
+	text-transform: capitalize;
+	position: relative;
+	top: 38%;
+	color: #012D2D;
+}

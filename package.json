@@ -1,0 +1,23 @@
+{
+  "name": "super-node",
+  "version": "1.0.0",
+  "description": "node.js and express.js mvc skeleton",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mvc",
+    "nodejs",
+    "nodejs",
+    "mvc",
+    "skeleton"
+  ],
+  "author": "ahmed hassan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
