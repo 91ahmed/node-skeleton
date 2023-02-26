@@ -1,2 +1,2 @@
-## super-node-skeleton
+## node-skeleton
 node and express mvc skeleton
