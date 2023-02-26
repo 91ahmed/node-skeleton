@@ -1,2 +1,2 @@
 ## node-skeleton
-node and express mvc skeleton
+node and express mvc framework
